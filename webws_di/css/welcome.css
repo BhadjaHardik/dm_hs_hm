@@ -1,0 +1,72 @@
+h1{
+    color: black;
+}
+ol{
+    color: rgb(57, 57, 57);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+     
+footer{
+    margin-top: 18px;
+    height: 30px;
+}
+main{
+    background-color: tomato;
+    display: flex;
+}
+.sidebar {
+    width: 240px;
+    font-size: large;
+    font-weight: bold;
+}
+    
+.profilepic{
+   margin: 9%;
+   height: 200px;
+   width: 200px;
+   
+}
+.main{
+    height: 550px;
+    
+}
+.mainchild{
+    width:25% ;
+    
+}
+.mainchild2{
+    width:50%;
+    margin-top: 20px;
+    
+}
+.container1{
+    background-color: rgb(77, 125, 162);
+    margin-top: 10px;
+}
+.container2{
+    background-color: rgb(77, 125, 162);
+   
+}
+.main-container{
+    background-color: rgb(133, 169, 196);
+   padding-bottom: 20px;
+   padding-top: 0px;
+}
+.navb{
+    height: 600px;
+    background-color: rgb(77, 125, 162);
+}
+.list-group-item{
+    background-color: rgb(77, 125, 162);
+    font-weight: bold;
+}
+.list-group{
+    background-color: rgb(77, 125, 162); 
+}
+h3{
+    padding-left: 10px;
+}
+    

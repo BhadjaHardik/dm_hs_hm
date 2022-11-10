@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(133, 169, 196);
+    color:rgb(0, 0, 0);
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+.form-text{
+    color: rgb(98, 98, 98);
+    font-size: small;
+}
+.headtext{
+    text-align: center;
+    margin-bottom: 12%;
+    font-weight: bolder;
+}
+.form-control{
+    font-size: large;
+    font-weight: bold;
+}
