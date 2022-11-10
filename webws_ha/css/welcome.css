@@ -1,0 +1,54 @@
+h2,h5{
+    color: #EB6440;
+}
+h1,h6{
+    color: #EFF5F5;
+}
+ol{
+    color: #497174;
+}
+h5{
+    margin-left: 23px;
+}
+.list-group{
+    height: 450px;
+}
+.list-group-item
+{
+    background-color: #EB6440;
+}
+.backcol,body{
+    background-color: #EFF5F5;
+}
+    header div{
+        background-color: #497174;
+    }
+    footer{
+        margin-top: 55px;
+        text-align: left;
+        padding: 10px;
+    }
+    footer div{
+        background-color: #497174;
+    }
+    .sidebar {
+    margin-left: 5%;
+    margin: 9%;
+    width: 240px;
+    z-index: 600;
+    background-color: #EB6440;
+    }
+    
+.profilepic{
+   margin: 9%;
+}
+.main{
+    height: 450px;
+}
+.mainchild{
+    width:25% ;
+}
+.mainchild2{
+    width:50%;
+}
+    
